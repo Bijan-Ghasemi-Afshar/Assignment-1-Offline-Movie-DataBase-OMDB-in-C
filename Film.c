@@ -4,7 +4,7 @@ File        : date.c
  
 Date        : Tuesday 25th October 2016
  
-Author      : Gavin Cawley
+Author      : Bijan G.A
   
 Description : Source file for a simple Abstract Data Type (ADT) representing
               a date.  The implementation is currently very basic and a full
